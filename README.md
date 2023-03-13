@@ -1,6 +1,6 @@
-# <p align="center">
+<h1 align="center">
     Hi there 👋
-</p>
+</h1>
 
 <!--
 **anesmez/anesmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
