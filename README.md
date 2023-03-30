@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Data Analytics and machine learning**
 - 👯 I’m looking to collaborate on **innovative projects** 
 - 💬 Ask me about **Anything, I'll do my best to help**
-- 📫 How to reach me:**mezdoud.anes@gmail.com or feel free to message me on LinkedIn**
+- 📫 How to reach me: **mezdoud.anes@gmail.com or feel free to message me on LinkedIn**
 - ⚡ Fun fact:** Me too I struggled once to center a div**
 
 <hr>
