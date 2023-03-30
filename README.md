@@ -4,12 +4,12 @@
 
 ## Passionate computer science student and project manager. Dedicated to using technology to solve real-world problems 🌐. Always learning and exploring new technologies. Looking to collaborate and connect with fellow developers to build a better digital world.
 
-- 🔭 I’m currently working on a digital solution for a company
-- 🌱 I’m currently learning Data Analytics and machine learning
-- 👯 I’m looking to collaborate on innovative projects 
-- 💬 Ask me about Web Development, Project Management
-- 📫 How to reach me: Feel free to message me on LinkedIn
-- ⚡ Fun fact: Me too I struggled once to center a div
+- 🔭 I’m currently working on a **digital solution for a company**
+- 🌱 I’m currently learning **Data Analytics and machine learning**
+- 👯 I’m looking to collaborate on **innovative projects** 
+- 💬 Ask me about **Anything, I'll do my best to help**
+- 📫 How to reach me:**mezdoud.anes@gmail.com or feel free to message me on LinkedIn**
+- ⚡ Fun fact:** Me too I struggled once to center a div**
 
 <hr>
 <p align="center">
