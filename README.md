@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **innovative projects** 
 - 💬 Ask me about **Anything, I'll do my best to help**
 - 📫 How to reach me: **mezdoud.anes@gmail.com or feel free to message me on LinkedIn**
-- ⚡ Fun fact:** Me too I struggled once to center a div**
+- ⚡ Fun fact: **Me too I struggled once to center a div**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
