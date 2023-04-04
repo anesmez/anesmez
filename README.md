@@ -11,6 +11,7 @@
 - 📫 How to reach me: **mezdoud.anes@gmail.com or feel free to message me on LinkedIn**
 - ⚡ Fun fact: **Me too I struggled once to center a div**
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40"/> </a>
