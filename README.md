@@ -26,6 +26,7 @@
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="NodeJS" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="40" height="40"/> </a>
 </p>
 
