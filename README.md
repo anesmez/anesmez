@@ -34,7 +34,7 @@
 <p align="center">
   <i>Let's connect and chat to make cool projects.</i>
 <p align="center">
-    <a href="https://www.linkedin.com/in/ieslammedhat/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/anes-mezdoud/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/anesmez" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
      <a href="mailto:mezdoud.anes@gmail.com" alt="Mail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p> 
