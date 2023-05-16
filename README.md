@@ -40,6 +40,7 @@
 </p> 
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=anesmez&icon=9&color=4)](https://visitcount.itsvg.in)
 <!--
 **anesmez/anesmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
